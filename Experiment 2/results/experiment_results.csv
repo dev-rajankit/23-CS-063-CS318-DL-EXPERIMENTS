@@ -1,0 +1,6 @@
+Experiment,Layers,Activation,Final Train Acc,Final Val Acc
+exp_0_relu_1hidden,"[784, 128, 10]",relu,0.9089833333333334,0.9126
+exp_1_relu_2hidden,"[784, 128, 64, 10]",relu,0.8116333333333333,0.8175
+exp_2_relu_2hidden,"[784, 256, 128, 10]",relu,0.8610666666666666,0.8612
+exp_3_sigmoid_1hidden,"[784, 128, 10]",sigmoid,0.8205166666666667,0.8247
+exp_4_tanh_1hidden,"[784, 128, 10]",tanh,0.9092833333333333,0.9127
